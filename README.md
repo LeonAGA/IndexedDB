@@ -25,7 +25,7 @@
 
 ## See it online
 
-- [`netlify`](https://github.com/LeonAGA/IndexedDBAppointment)
+- [`netlify`](https://github.com/LeonAGA/indexeddbappointment)
 - [`codepen`](https://codepen.io/LeonAGA/pen/JjjPowe)
 
 ## Links to other proyects
